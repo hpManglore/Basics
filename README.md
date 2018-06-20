@@ -1,2 +1,1 @@
-# Basics
-first week development
+coool
