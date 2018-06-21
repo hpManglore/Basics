@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 case R.id.button3:
                     txt.setText(txt.getText() + "0");
                     break;
-                case R.id.button4:
+                case R.id.button4://sample
                     txt.setText(txt.getText() + b[4].getText().toString());
                     break;
                 case R.id.button5:
